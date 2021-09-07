@@ -1,0 +1,10 @@
+{
+  "simulation": "performance.UserSimulation",
+  "simulationId": "usersimulation",
+  "start": 1594610827112,
+  "description": "",
+  "scenarios": ["GET method should return 200"],
+  "assertions": [
+
+  ]
+}

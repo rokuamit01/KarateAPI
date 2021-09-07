@@ -1,0 +1,14 @@
+<testsuite failures="0"
+           name="src/test/java/performance/GETSingleUser.feature"
+           skipped="0"
+           tests="1"
+           time="4.7688">
+   <testcase classname="src.test.java.performance.GETSingleUser"
+             name="GET method should return 200"
+             time="4.7688">
+      <system-out>* url 'https://reqres.in' ................................................. passed
+Given path '/api/users/2' ................................................. passed
+When method get ........................................................... passed
+Then status 200 ........................................................... passed</system-out>
+   </testcase>
+</testsuite>
